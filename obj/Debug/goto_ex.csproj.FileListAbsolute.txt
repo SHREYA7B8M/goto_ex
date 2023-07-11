@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\bin\Debug\goto_ex.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\bin\Debug\goto_ex.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\bin\Debug\goto_ex.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\obj\Debug\goto_ex.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\obj\Debug\goto_ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\obj\Debug\goto_ex.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\obj\Debug\goto_ex.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_2\goto_ex\goto_ex\obj\Debug\goto_ex.pdb
